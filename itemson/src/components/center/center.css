@@ -1,0 +1,78 @@
+.Keyline {
+    margin-top: 60px;
+    text-align: center;
+    width: 300px;
+    margin: 80px auto;
+}
+
+#tss, #pass {
+    border: none;
+    width: 250px;
+    height: 40px;
+}
+body{
+    background: #fff !important;
+}
+.inputContainer {
+    margin-top: 20px;
+    border-bottom: 1px solid #cccccc7a;
+}
+.logon{
+    margin: 30px 0;
+}
+.logon button{
+background-color:red;
+    opacity: 0.5;
+    border: none;
+    color: #fff;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+}
+.resge button{
+  border: 1px solid red;
+
+    background-color:#fff;
+    color: red;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+}
+.footer{
+    margin: 50px 0;
+}
+.txt-otherLogin{
+    color: rgba(0,0,0,.2);
+    margin: -.11rem auto 0;
+  font-size: 12px;
+    background: #fff;
+    text-align: center;
+}
+.quick-type{
+    text-align: center;
+    margin-top: 30px;
+}
+.icon-qq{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background: url("/static/qq.png") ;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+
+}
+.icon-wx{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 30px;
+    background: url("/static/weixin.png") ;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.policy_tip{
+    font-size: 12px;
+}
+.policy_tip a{
+    color: red;
+}

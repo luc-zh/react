@@ -1,0 +1,172 @@
+.topCenter{
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 46px;
+    background: #ffffff;
+
+}
+.body{
+    background: #f6f6f6 !important;
+}
+.topCenter button{
+    width: 60px;
+    height: 30px;
+    background-color: red;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    /* font-weight: bold; */
+    cursor:pointer;
+    margin-left: 20px;
+}
+.zhongxin{
+    height: 100px;
+    margin: 70px 0 ;
+    text-align: center;
+}
+.xinren{
+    background: #ffffff;
+    margin-top: 5px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.xinren div{
+    margin: 0 8px;
+    height:50px;
+    line-height: 50px;
+
+}
+.xinren span{
+    font-size: 15px;
+}
+.xinren button{
+    vertical-align: bottom;
+    float: right;
+    margin-right: 10px;
+    width: 90px;
+    height: 30px;
+    margin-top: 10px;
+    background-image: linear-gradient(-90deg,#f2270c,#ff9574);
+    box-shadow: 0 5px 10px 0 rgba(233,59,61,.2);
+    border-radius: 15px;
+    padding: 0 15px;
+    outline: none;
+    border: none;
+
+    color: #fff;
+    /* font-weight: bold; */
+    cursor:pointer;
+}
+.imgs{
+    width:30%;
+    position: relative;
+    height: 150px;
+text-align: center;
+   line-height: 240px;
+    float: left;
+
+}
+.imgs input{
+    position:absolute;
+    left: 5px;
+    top: 5px;
+    width: 15px;
+    height: 15px;
+}
+.tetie{
+    width:70%;
+height: 150px;
+    float: left;
+    /*background: blue;*/
+}
+.wenzi{
+    height: 80px;
+    margin-top: 30px;
+}
+.shijian{
+    position: relative;
+height: 40px;
+    top:-6px;
+    line-height: 40px;
+}
+.shijian p{
+    position: absolute;
+    right: 35px;
+    bottom: 0;
+    width: 100px;
+    text-align: center;
+}
+.clor{
+    color: red;
+    font-weight: 700;
+    margin-left: 7px;
+    display: inline-block;
+}
+.shijian  input{
+    width: 30px;
+    height: 22px;
+    text-align: center;
+    border: none;
+    outline: none;
+    background: #f6f6f6;
+    vertical-align: middle;
+}
+.eve{
+
+    width: 20px;
+    left: 13px;
+    top: 10px;
+    position: absolute;
+    height: 21px;
+    line-height: 21px;
+    text-align: center;
+    background: #f6f6f6;
+    margin-right: 2px;
+    display:inline-block;
+    font-weight: 700;
+
+
+}
+ .add{
+    display:inline-block;
+     width: 20px;
+     left: 65px;
+     top: 10px;
+     position: absolute;
+     height: 21px;
+     line-height: 21px;
+font-weight: 700;
+     /*padding: 0 10px;*/
+
+    text-align: center;
+    background: #f6f6f6;
+    margin-left: 2px;
+
+
+}
+.am-checkbox{
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    top: -42px !important;
+    left: -6px !important;
+    width: 21px;
+    height: 21px;
+}
+.checkox{
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    top: 23px !important;
+    left: -5px !important;
+    width: 21px;
+    height: 21px;
+}
+.shanchu{
+    position: absolute;
+    right: -30px;
+    top: 1px;
+    color: #ccc;
+}

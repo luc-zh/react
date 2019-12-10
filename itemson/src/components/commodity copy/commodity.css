@@ -1,0 +1,354 @@
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.footers{
+    margin-bottom: 50px;
+}
+.footers .am-tabs-default-bar {
+    height: 40px !important;
+}
+
+.footers .am-tabs-default-bar-content {
+    height: 40px !important;
+}
+
+.footers .am-tabs-tab-bar-wrap {
+    height: 40px !important;
+}
+.footers .shouhou{
+    margin: 0 8px;
+    color: #999;
+    font-size: 13px;
+}
+.footers .shouhou div{
+    margin: 10px 0;
+    text-align: center;
+}
+.warp {
+    margin: 10px 8px;
+}
+
+.pic {
+    height: 40px;
+    line-height: 40px;
+}
+
+.pic h2 {
+    color: red;
+
+}
+
+.pic .s1 {
+    color: blueviolet;
+    font-size: 12px;
+}
+
+.pic p {
+    margin-left: 140px;
+}
+
+.pic p span {
+    margin: 0 3px;
+    font-size: 12px;
+    color: #999;
+}
+
+.guangzhu {
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background-color: #ECECEC;
+    margin-bottom: 10px;
+}
+.-tab-title{
+    touch-action: none;
+    margin-top: 45px;
+}
+.guangzhu span {
+    font-size: 13px;
+}
+
+.text h3 {
+    margin-bottom: 10px;
+}
+
+.text span {
+    font-size: 13px;
+    color: #999;
+}
+
+.miaosha {
+    margin: 20px 0;
+}
+
+.miaosha P {
+    margin: 5px 0;
+}
+
+.miaosha p .bg {
+    background: red;
+    color: #fff;
+    font-size: 13px;
+    padding: 0 2px;
+}
+
+.miaosha p .color {
+    margin-left: 20px;
+    color: red;
+    font-size: 13px;
+}
+
+.miaosha p .time-picker {
+
+    color: #999;
+    font-size: 13px;
+
+}
+.neirong .xing{
+    display: inline-block;
+    width: 12px;
+    height: 10px;
+    background: url(/static/xing.png) 39% no-repeat;
+    background-size: 100%;
+}
+.miaosha p .timeour {
+    margin-left: 20px;
+}
+
+.detail_gap {
+    padding-top: 10px;
+    background: #e8e8ed;
+    margin: -1px 0;
+    position: relative;
+    z-index: 2;
+}
+
+.kuang1 {
+    background: #fff;
+    padding: 12px 0 12px 10px;
+    position: relative;
+    font-size: 12px;
+    color: #999;
+    border-bottom: 1px solid #ccc;
+}
+
+.kuang1 .posis {
+    position: absolute;
+    left: 10px;
+    top: 18px;
+    color: #999;
+}
+
+.kuang1 .a {
+    margin-left: 35px;
+    margin-bottom: 8px;
+}
+
+.kuang1 .a p span {
+    margin-left: 10px;
+    color: red;
+    border: 1px solid red;
+    font-size: 12px;
+    padding: 1px 2px;
+}
+
+.kuang2 {
+    height: 50px;
+    line-height: 50px;
+}
+
+.kuang2 ul li {
+
+    font-size: 12px;
+    color: #999;
+    margin-right: 10px;
+    padding: 5px 12px 5px 0;
+    display: inline-block;
+    line-height: 1;
+}
+.tit{
+    font-size: 16px;
+    color: #333;
+    padding: 10px 0;
+    display: inline-block;
+}
+.tit .haoping{
+    font-size: 12px;
+    color: red;
+}
+.gong{
+    font-size: 13px;
+    display: inline-block;
+    width: 270px;
+    text-align: right;
+}
+.neirong{
+    margin: 10px 0 !important;
+    padding: 10px 0;
+    border-bottom: 1px solid #cccccc40;
+}
+.comFooter {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 999;
+    background-color: hsla(0,0%,100%,.95);
+    height: 50px;
+
+}
+.comss{
+    position: absolute;
+    bottom: 46px;
+    left: 0;
+    height: 0;
+    width: 100%;
+    background: red;
+}
+.comFooter ul{
+    height: 50px;
+    line-height: 50px;
+}
+.comFooter ul li{
+    float: left;
+    margin: 11.5px;
+}
+.comFooter ul li.liji{
+    z-index: 10;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    width: 108px;
+    margin: 0;
+
+    background: linear-gradient(-41deg,#ff4f18,#ff2000 24%,#f10000);
+}
+.comFooter ul li.jia{
+    margin: 0;
+    z-index: 10;
+    width: 105px;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    background: linear-gradient(138deg,#ffa600,#ffb000 77%,#ffbc00);
+}
+.footerSize{
+    font-size: 10px;
+    color: #999;
+    display: block;
+    line-height: 20px;
+}
+ul li .tu1{
+    background: url(/static/kefu.png) center no-repeat;
+    background-size: auto 20px;
+    height: 19px;
+}
+ul li .tu2{
+    background: url(/static/jingdian.png) center no-repeat;
+    background-size: auto 20px;
+    height: 19px;
+}
+ul li .tu3{
+    background: url(/static/gouwuche.png) center no-repeat;
+    background-size: auto 20px;
+    height: 19px;
+}
+.feldx{
+    width: 40px;
+    display: block;
+    height: 40px;
+    position: fixed;
+    bottom: 80px;
+    right: 0;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 25px;
+    background-image:url("/static/fanhui.png");
+    z-index: 107;
+
+    overflow: hidden;
+    background-color: rgba(0,0,0,.7);
+    border-radius: 3px 0 0 3px;
+}
+.topLi ul li{
+    display: inline-block;
+    font-size: 13px;
+    padding: 0 10px;
+}
+.sandian{
+    position: absolute;
+    right: 10px;
+    top: 19px;
+    display: block;
+    width: 15px;
+    height: 3px;
+    background-image: url(/static/sandian.png);
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-position: 0 0;
+}
+.neik{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -2px;
+    margin-right: 5px;
+    width: 12px;
+    height: 12px;
+    background: url(/static/neik.png) no-repeat;
+    background-size: 12px auto;
+}
+.am-grid-icon{
+margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.detail_info_wrap .detail_item .param_table{
+    width: 100%;
+    margin-bottom: 10px;
+    border-collapse: collapse;
+    font-size: 12px;
+    border-spacing: 0;
+    line-height: 18px;
+
+}
+a{
+    color: #000;
+}
+tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+ td:first-child{
+    width: 72px;
+}
+ td ,th{
+    padding: 8px;
+    border: 1px solid #dadada;
+    text-align: left;
+}

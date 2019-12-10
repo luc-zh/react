@@ -1,0 +1,50 @@
+{
+  "img": [
+    {
+      "id": 0,
+      "url": "/static/images/seckill/goods1.jpg",
+      "newprice": "¥188",
+      "oldprice": "¥200",
+      "em": "生鲜",
+      "class": "白条免息购",
+      "title":"免息星球"
+
+    },
+    {
+      "id": 1,
+      "url": "/static/images/seckill/goods2.jpg",
+      "newprice": "¥188",
+      "oldprice": "¥200",
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "大牌",
+      "class": "品牌闪购",
+      "title":"汇大牌好价"
+    },
+    {
+      "id": 2,
+      "url": "/static/images/seckill/goods3.jpg",
+      "newprice": "¥188",
+      "oldprice": "¥200",
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "秒杀",
+      "title":"品牌秒杀",
+      "class": "低价抢大牌"
+    },
+    {
+      "id": 3,
+      "url": "/static/images/seckill/goods4.jpg",
+      "newprice": "¥188",
+      "oldprice": "¥200",
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "大牌",
+      "class": "排行榜",
+      "title":"热销推荐"
+    }
+  ]
+}

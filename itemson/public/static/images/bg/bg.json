@@ -1,0 +1,11 @@
+{
+  "bg": [
+    {"src":"/static/images/bg/bg1.dpg.webp"},
+    {"src":"/static/images/bg/bg2.dpg.webp"},
+    {"src":"/static/images/bg/bg3.dpg.webp"},
+    {"src":"/static/images/bg/bg4.dpg.webp"},
+    {"src":"/static/images/bg/bg5.dpg.webp"},
+    {"src":"/static/images/bg/bg6.dpg.webp"},
+    {"src":"/static/images/bg/bg7.dpg.webp"}
+  ]
+}

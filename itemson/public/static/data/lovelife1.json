@@ -1,0 +1,194 @@
+{
+  "goodl": [
+    {
+      "fang":false,
+      "youhuo":false,
+      "id":0,
+        "pic":9999,
+      "url": "/static/newimg/1.jpg",
+      "zongxiao":100,
+      "title2":"Apple iPhone 11 Pro Max (A2220) 256GB 暗夜绿色  移动联通电信4G手机 双卡双待  ",
+      "title":"大屏旗舰新机，超广角三摄，样样出色，限时免息每日仅需约29.9元！点此抢券享12期免息！  "
+      ,
+      "yixuan":"仅高低床,(下铺)1.2*1.9米(上铺)0.9*1.9米,1个"
+      ,
+      "src0" :"/static/newimg/1.jpg",
+      "src1" : "/static/newimg/11.dpg.webp",
+      "src2" : "/static/newimg/111.dpg.webp",
+      "src3" : "/static/newimg/1111.dpg.webp"
+        ,
+        "num":1,
+        "checked":false
+        ,
+        "xiao":" 幻夜黑,全网通8G+128G,7个"
+    },
+    {
+      "fang":true,
+      "youhuo":false,
+      "id": 1,
+      "pic":9998,
+      "url": "/static/newimg/2.jpg",
+      "zongxiao":200,
+      "title2": "                                                                  Apple iPhone XS Max (A2104) 256GB 金色 移动联通电信4G手机 双卡双待                             "
+      ,
+      "title":"【12.1-12.5限时抢券特惠，低至6999元】iPhoneXS系列性能强劲，样样出色！点此抢券享12期免息！ "
+      ,
+      "yixuan":"仅高低床,(下铺)1.2*1.9米(上铺)0.9*1.9米,1个"
+      ,
+      "src0" :"/static/newimg/2.jpg",
+      "src1" : "/static/newimg/22.dpg.webp",
+      "src2" : "/static/newimg/222.dpg.webp",
+      "src3" : "/static/newimg/22.dpg.webp"
+      ,
+      "num":1,
+      "checked":false
+      ,
+        "xiao":" 幻夜黑,全网通8G+128G,7个"
+    },
+    {
+      "fang":false,
+      "youhuo":true,
+      "id":2,
+      "pic":10000,
+      "url": "/static/newimg/3.jpg",
+      "zongxiao":500,
+      "title2": "      OPPO A11 5000mAh大电池 AI四摄 视频防抖 6GB+128GB 湖光绿 全网通4G 全面屏拍照游戏智能手机                        "
+      ,
+      "title":"【12月9日10点开售，赠耳机】5000mAh大电池，AI四摄超清视频防抖，128G超大内存。K5至高优惠100元低至1799元！ "
+      ,
+      "yixuan":"仅高低床,(下铺)1.2*1.9米(上铺)0.9*1.9米,1个"
+      ,
+      "src0" :"/static/newimg/3.jpg",
+      "src1" : "/static/newimg/33.dpg.webp",
+      "src2" : "/static/newimg/333.dpg.webp",
+      "src3" : "/static/newimg/3333.dpg.webp"
+      ,
+      "num":1
+      ,
+      "checked":false
+      ,
+        "xiao":" 幻夜黑,全网通8G+128G,7个"
+    },
+    {
+      "fang":true,
+      "youhuo":true,
+      "id": 3,
+      "pic":6000,
+      "url": "/static/newimg/4.jpg",
+      "title2": "                                                                                                                                         加厚耐磨双层超弹丝毛刺底环保全包围汽车脚垫  专车定制 酒红双层                                                "
+      ,
+      "title":"Apple iPhone 11 Pro (A2217) 256GB 暗夜绿色 移动联通电信4G手机 双卡双待 "
+      ,
+      "yixuan":"iPhoneXSMax限时特惠来袭，券后仅需5999元，OLED超视网膜大屏，颜值抗打，性能强劲！点此购买！ "
+      ,
+      "src0" :"/static/newimg/4.jpg",
+      "src1" : "/static/newimg/44.dpg.webp",
+      "src2" : "/static/newimg/444.dpg.webp",
+      "src3" : "/static/newimg/4444.dpg.webp"
+      ,
+      "num":1
+      ,
+      "checked":false
+      ,
+        "xiao":" 幻夜黑,全网通8G+128G,7个"
+    }
+  ,
+    {
+      "fang":false,
+      "youhuo":false,
+      "id": 4,
+      "pic":8999,
+      "url": "/static/newimg/5.dpg.webp",
+      "zongxiao":600,
+      "title2": "            Apple iPhone XR (A2108) 128GB 黑色 移动联通电信4G手机 双卡双待   "
+      ,
+      "title":"iPhoneXS系列性能强劲，样样出色，现特惠来袭，抢券低至5299元！新品抢券享12期免息！详情请点击！ "
+      ,
+      "yixuan":"仅高低床,(下铺)1.2*1.9米(上铺)0.9*1.9米,1个"
+      ,
+  
+      "src0" :"/static/newimg/5.dpg.webp",
+      "src1" : "/static/newimg/55.dpg.webp",
+      "src2" : "/static/newimg/5.dpg.webp",
+      "src3" : "/static/newimg/55.dpg.webp"
+      ,
+      "num":1
+      ,
+      "checked":false
+      ,
+        "xiao":" 幻夜黑,全网通8G+128G,7个"
+    },
+    {
+      "fang":true,
+      "youhuo":true,
+      "id": 5,
+      "pic":7999,
+      "url": "/static/newimg/6.dpg.webp",
+      "zongxiao":150,
+      "title2": "                                                                                                                                             【秋尚新】时尚手提电脑包女式苹果macbook 13pro15华为matebook14戴尔华硕联想惠 玫瑰粉 13寸                                                   "
+      ,
+      "title":"华为 HUAWEI Mate 30 Pro 5G 麒麟990 OLED环幕屏双4000万徕卡电影四摄8GB+256GB丹霞橙5G全网通手机"
+      ,
+      "yixuan":"【享白条12期免息！】麒麟990，双4000万徕卡电影四摄；爆品立省500》 "
+      ,
+      "src0" :"/static/newimg/6.dpg.webp",
+      "src1" : "/static/newimg/66.dpg.webp",
+      "src2" : "/static/newimg/666.dpg.webp",
+      "src3" : "/static/newimg/66.dpg.webp"
+      ,
+      "num":1
+      ,
+      "checked":false
+      ,
+        "xiao":" 幻夜黑,全网通8G+128G,7个"
+    },
+    {
+      "fang":true,
+      "youhuo":false,
+      "id":6 ,
+      "pic":10000,
+      "url": "/static/newimg/7.dpg.webp",
+      "zongxiao":6700,
+      "title2": "                           Apple iPhone XS (A2100)  256GB 深空灰色 移动联通电信4G手机           "
+      ,
+      "title":"iPhoneXS系列性能强劲，样样出色，现特惠来袭，抢券立减100元！点此抢券！ "
+      ,
+      "yixuan":"仅高低床,(下铺)1.2*1.9米(上铺)0.9*1.9米,1个"
+      ,
+      "src0" :"/static/newimg/7.dpg.webp",
+      "src1" : "/static/newimg/77.dpg.webp",
+      "src2" : "/static/newimg/777.dpg.webp",
+      "src3" : "/static/newimg/77.dpg.webp"
+      ,
+      "num":1
+      ,
+      "checked":false
+      ,
+        "xiao":" 幻夜黑,全网通8G+128G,7个"
+    },
+    {
+      "fang":false,
+      "youhuo":false,
+      "id": 7,
+      "pic":9999,
+      "url": "/static/newimg/8.dpg.webp",
+      "zongxiao":180,
+      "title2": "      华为 HUAWEI Mate 30 5G 麒麟990 4000万超感光徕卡影像双超级快充8GB+128GB亮黑色5G全网通手机   "
+      ,
+      "title":"【享白条12期免息！】麒麟990，双4000万徕卡电影四摄；爆品立省500》 "
+      ,
+      "yixuan":"仅高低床,(下铺)1.2*1.9米(上铺)0.9*1.9米,1个"
+      ,
+      "src0" :"/static/newimg/8.dpg.webp",
+      "src1" : "/static/newimg/88.dpg.webp",
+      "src2" : "/static/newimg/888.dpg.webp",
+      "src3" : "/static/newimg/8888.dpg.webp"
+      ,
+      "num":1
+      ,
+      "checked":false
+      ,
+        "xiao":" 幻夜黑,全网通8G+128G,7个"
+    }
+  ]
+}
