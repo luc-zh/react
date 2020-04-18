@@ -7,4 +7,4 @@ react全家桶
 ⚫ 使用Redux实现了全局状态管理，通过dispatch action来实现不同的操作；
 ⚫ 使用react-router，React-Redux实现了带有权限控制的路由
 ⚫登录注册是使用LocalStorage来储存数据
-````
+
